@@ -33,7 +33,7 @@ I am a software engineer at ValueLabs with a passion for building innovative and
 | [ReactBlogs](https://rpsingh0.github.io/ReactBlogFrontend/)    | A blogging platform                                     | Frontend: React, Redux, Tailwind CSS                |
 |                |                                                         | Backend: Node.js, Express, MongoDB                  |
 | [TodoApplication](https://rpsingh0.github.io/TodoApplication/)| A task management application using local storage        | Frontend: React, Redux                              |
-| [Omnifood](http://omnifood-r.s3-website-us-east-1.amazonaws.com)      | A food delivery website                                 | Frontend: HTML, CSS, JavaScript                     |
+| [Omnifood](https://rpsingh0.github.io/Omnifood/)      | A food delivery website                                 | Frontend: HTML, CSS, JavaScript                     |
 
 
 Feel free to explore these projects and other projects in my repositories 😀
