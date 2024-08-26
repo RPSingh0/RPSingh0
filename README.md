@@ -28,7 +28,7 @@ I am a software engineer at ValueLabs with a passion for building innovative and
 
 | Project Name   | Description                                             | Technologies Used                                    |
 |----------------|---------------------------------------------------------|------------------------------------------------------|
-| [Ecommerce](http://ecommerce-production-r.s3-website-us-east-1.amazonaws.com)      | An e-commerce platform with payment integration         | Frontend: React, Redux, Material UI                 |
+| [Ecommerce](https://rpsingh0.github.io/EcommerceFrontend/)      | An e-commerce platform with payment integration         | Frontend: React, Redux, Material UI                 |
 |                |                                                         | Backend: Node.js, Express, MongoDB, Stripe           |
 | [ReactBlogs](http://react-blogs-r.s3-website-us-east-1.amazonaws.com)    | A blogging platform                                     | Frontend: React, Redux, Tailwind CSS                |
 |                |                                                         | Backend: Node.js, Express, MongoDB                  |
