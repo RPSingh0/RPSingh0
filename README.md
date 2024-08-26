@@ -30,7 +30,7 @@ I am a software engineer at ValueLabs with a passion for building innovative and
 |----------------|---------------------------------------------------------|------------------------------------------------------|
 | [Ecommerce](https://rpsingh0.github.io/EcommerceFrontend/)      | An e-commerce platform with payment integration         | Frontend: React, Redux, Material UI                 |
 |                |                                                         | Backend: Node.js, Express, MongoDB, Stripe           |
-| [ReactBlogs](http://react-blogs-r.s3-website-us-east-1.amazonaws.com)    | A blogging platform                                     | Frontend: React, Redux, Tailwind CSS                |
+| [ReactBlogs](https://rpsingh0.github.io/ReactBlogFrontend/)    | A blogging platform                                     | Frontend: React, Redux, Tailwind CSS                |
 |                |                                                         | Backend: Node.js, Express, MongoDB                  |
 | [TodoApplication](http://todo-application-r.s3-website-us-east-1.amazonaws.com)| A task management application using local storage        | Frontend: React, Redux                              |
 | [Omnifood](http://omnifood-r.s3-website-us-east-1.amazonaws.com)      | A food delivery website                                 | Frontend: HTML, CSS, JavaScript                     |
